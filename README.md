@@ -10,8 +10,8 @@
 - [5/5] [Домашнее задание #6 "Обход графов в ширину"](hw6/)
 
 ## Информация о курсе:
-[Плейлист с лекциями на YouTube](https://www.youtube.com/playlist?list=PL6Wui14DvQPz_vzmNVOYBRqML6l51lP0G)
-[Контест по разминке и основным темам (Дивизион B)](https://contest.yandex.ru/contest/45468/problems/)
-[Контест по финальному спринту](https://contest.yandex.ru/contest/46304/problems/)
+- [Плейлист с лекциями на YouTube](https://www.youtube.com/playlist?list=PL6Wui14DvQPz_vzmNVOYBRqML6l51lP0G)
+- [Контест по разминке и основным темам (Дивизион B)](https://contest.yandex.ru/contest/45468/problems/)
+- [Контест по финальному спринту](https://contest.yandex.ru/contest/46304/problems/)
 
 Заметили ошибку? Пожалуйста, оформите issue или напишите мне [Alex-Norden@yandex.ru](mailto:Alex-Norden@yandex.ru)
